@@ -1,6 +1,6 @@
 # DevOps Assessment
 
-## Overview
+### Overview
 
 This project demonstrates a production-oriented DevOps solution that combines Docker, PostgreSQL, Terraform, AWS infrastructure provisioning, and GitHub Actions CI.
 
